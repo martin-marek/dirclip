@@ -1,8 +1,8 @@
 # Can a Confident Prior Replace a Cold Posterior?
 
-Official repository for the paper *[Can a Confident Prior Replace a Cold Posterior?](TODO_ARXIV_LINK)*
+Official repository for the paper *[Can a Confident Prior Replace a Cold Posterior?](https://arxiv.org/abs/2403.01272)*
 
-[![](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](TODO_ARXIV_LINK)
+[![](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2403.01272)
 
 ## Key ideas
 
@@ -41,3 +41,16 @@ All figures in the report were generated using the provided [Jupyter notebooks](
 - [distributions.ipynb](notebooks/distributions.ipynb) provides most of the distribution visualizations (slices, gradients, training stability, etc).
 - [weights_analysis_dirichlet.ipynb](notebooks/weights_analysis_dirichlet.ipynb) and [weights_analysis_cold.ipynb](notebooks/weights_analysis_cold.ipynb) provide visualizations of trained models
 - [2d_classification.ipynb](notebooks/2d_classification.ipynb) uses HMC to create Figure 1
+
+## Citation
+
+```bibtex
+@misc{marek2024confident,
+  title={Can a Confident Prior Replace a Cold Posterior?}, 
+  author={Martin Marek and Brooks Paige and Pavel Izmailov},
+  year={2024},
+  eprint={2403.01272},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG}
+}
+```
