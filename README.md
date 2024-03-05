@@ -45,7 +45,7 @@ All figures in the report were generated using the provided [Jupyter notebooks](
 ## Citation
 
 ```bibtex
-@misc{marek2024confident,
+@misc{dirclip,
   title={Can a Confident Prior Replace a Cold Posterior?}, 
   author={Martin Marek and Brooks Paige and Pavel Izmailov},
   year={2024},
