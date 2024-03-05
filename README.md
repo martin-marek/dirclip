@@ -2,7 +2,7 @@
 
 Official repository for the paper *[Can a Confident Prior Replace a Cold Posterior?](https://arxiv.org/abs/2403.01272)*
 
-[![](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2403.01272)
+[![](https://img.shields.io/badge/arXiv-2403.01272-b31b1b.svg)](https://arxiv.org/abs/2403.01272)
 
 ## Key ideas
 
